@@ -1,0 +1,52 @@
+.container{
+    padding: 5px;
+    border: 7px solid black;
+    margin: 10px;
+    background:rgb(213, 194, 220);
+
+
+}
+.content{
+    padding: 20px;
+}
+img{
+
+    border: solid black 2px;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
+.img{
+    display: inline;
+}
+h1,h4{
+    text-align: right;
+    font-weight: bold;
+    font-size: 50px;
+    margin: 5px;
+}
+.about{
+    margin: 0%;
+    padding: 0%;
+    line-height: 30px;
+    letter-spacing: 1.2px;
+}
+footer{
+    text-align: right;
+    font-size: large;
+    background: #757575;
+    color: aliceblue;
+    display: block;
+ 
+}
+p,.biography_section{
+    font-size: larger;
+ 
+    
+}
+ul {
+    margin-left: 50px;
+  }
+  li {
+    margin-bottom: 15px;
+  }
